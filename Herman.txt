@@ -1,3 +1,1 @@
-Herman
- Dette er min andre commit
-
+ Fun to have second commit
