@@ -1,4 +1,4 @@
 Herman
  Han skal spotte Daniel på benken etterpå
  Dette er min andre commit
-
+ Fun to have second commit
