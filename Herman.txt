@@ -1,1 +1,2 @@
 Herman
+ Dette er min andre commit
