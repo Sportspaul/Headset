@@ -1,1 +1,3 @@
-Fun to have the second commit
+Herman
+ Dette er min andre commit
+
